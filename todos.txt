@@ -1,8 +1,10 @@
 Make soup.
-Clean the code
+Clean the program
 Buy the painting
-New Order
-We just made a default arg
+Good ORderWe just made a default arg
 Get the car.
-Buy grocery.
-Master Python!
+Buy plants.Master Python!
+Anything
+My newest todo is added
+Last todo
+And lastly
