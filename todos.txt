@@ -1,8 +1,6 @@
-Buy the painting
-Good ORderWe just made a default arg
-Buy plants.Master Python!
-Anything
-My newest todo is added
-Last todo
-And lastly
-Make pasta.
+Do the laundry.
+Return the books to the library.
+Visit the new museum.
+Print the pictures.
+Fix the floor.
+Buy grocery.
